@@ -1,5 +1,5 @@
-﻿// Day 12
-// Part 2
+﻿// Day 13
+// Part 1
 
 string[] lines = File.ReadAllLines("Part1/input.txt");
 
